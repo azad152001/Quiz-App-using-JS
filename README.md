@@ -1,1 +1,2 @@
-# This is my project in development i used Html, Css and Js for building this quiz and the quiz is on front end development so you will get questions regarding front end development try it out it will be fun.
+Quiz based on front end web development 
+Give it a try hope you will like it.
