@@ -28,12 +28,12 @@ const quiz = [
     {
         question: "Q. What is the purpose of media queries in responsive web design?",
         choices: ["A) To create animations", "B) To handle user interactions", "C) To adapt layouts based on screen size", " D) To optimize server requests"],
-        answer: "To adapt layouts based on screen size"
+        answer: "C) To adapt layouts based on screen size"
     },
     {
         question: "Q. Which of the following is NOT a front-end framework/library?",
         choices: ["A) React", "B) Angular", "C) Django", " D) Vue.js"],
-        answer: "Django"
+        answer: "C) Django"
     }
 ];
 
